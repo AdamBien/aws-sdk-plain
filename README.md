@@ -1,2 +1,2 @@
-# aws-sdk-plain
-Plain AWS SDK Java SE Project Template
+# SDK
+https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide
