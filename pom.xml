@@ -21,6 +21,7 @@
                 <version>2.22.2</version>
             </plugin>
         </plugins>
+        <finalName>aws-sdk-plain</finalName>
     </build>
     <dependencies>
         <dependency>
