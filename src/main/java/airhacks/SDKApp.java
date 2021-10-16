@@ -28,7 +28,5 @@ public class SDKApp {
         var response = StsClient.create().getCallerIdentity();
         var arn = response.arn();
         System.out.println(arn);
-
-
     }
 }
